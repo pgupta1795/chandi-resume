@@ -215,7 +215,7 @@ export default function Home() {
                     <h3 className="text-xl font-bold">Technical Manager -CAD</h3>
                     <div className="flex items-center text-sm text-muted-foreground">
                       <Badge variant="outline" className="bg-accent/50">
-                        2016/07 - 2017/07
+                        2014/05 - 2016/12
                       </Badge>
                     </div>
                   </div>
@@ -245,7 +245,7 @@ export default function Home() {
                     <h3 className="text-xl font-bold">Application Engineer -PLM</h3>
                     <div className="flex items-center text-sm text-muted-foreground">
                       <Badge variant="outline" className="bg-accent/50">
-                        2014/05 - 2016/12
+                        2013/03 - 2014/05
                       </Badge>
                     </div>
                   </div>
@@ -260,6 +260,36 @@ export default function Home() {
                       targets. Involved in sales and tendering projects plans for SaaS modules.
                     </li>
                     <li>Successfully deployed, trained and supported CATIA, ENOVIA for a defense project.</li>
+                  </ul>
+                </div>
+              </div>
+
+
+              <div className="relative pl-8 border-l-2 border-primary/20 hover:border-primary transition-colors duration-300">
+                <div className="absolute w-4 h-4 bg-primary rounded-full -left-[9px] top-1"></div>
+                <div className="bg-card p-6 rounded-lg shadow-sm border hover:shadow-md transition-shadow duration-300">
+                  <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-2">
+                    <h3 className="text-xl font-bold">Application Executive -CAD</h3>
+                    <div className="flex items-center text-sm text-muted-foreground">
+                      <Badge variant="outline" className="bg-accent/50">
+                        2011/07 - 2013/02
+                      </Badge>
+                    </div>
+                  </div>
+                  <p className="text-base font-medium text-primary mt-1">HOPE Technologies Private Limited - An Adroitec Group Company, India</p>
+                  <ul className="mt-4 space-y-2 list-disc list-inside text-card-foreground">
+                    <li>
+                      Handling marketing & sale operations for achieving sales pre-set goals & marketing development efforts for ZWCAD, PTC Software.
+                    </li>
+                    <li>
+                      Implementing competent business strategies to market a wide range of products for accomplishing sales
+                      & profit targets. Involved in effective documentation of Proposals RFPs, RFQs and RFIs.
+                    </li>
+                    <li>Interfacing with key clients for mapping requirements, making presentations, and delivering need-based
+                      product solutions. </li>
+                    <li>
+                      Achieved the target of 25000 GBP (approx.100 licenses) in 2 months.
+                    </li>
                   </ul>
                 </div>
               </div>
