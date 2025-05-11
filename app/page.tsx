@@ -1,11 +1,11 @@
-import { Download, Mail, Linkedin, MapPin, Phone } from "lucide-react"
+import {ThemeToggle} from "@/components/theme-toggle"
+import {Badge} from "@/components/ui/badge"
+import {Button} from "@/components/ui/button"
+import {Card,CardContent} from "@/components/ui/card"
+import {Progress} from "@/components/ui/progress"
+import {Tabs,TabsContent,TabsList,TabsTrigger} from "@/components/ui/tabs"
+import {Download,Linkedin,Mail,MapPin,Phone} from "lucide-react"
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
-import { Progress } from "@/components/ui/progress"
-import { Badge } from "@/components/ui/badge"
-import { Card, CardContent } from "@/components/ui/card"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function Home() {
   return (
@@ -498,7 +498,7 @@ export default function Home() {
                   </p>
                   <Button variant="outline" className="w-full" asChild>
                     <a
-                      href="https://www.technia.co.uk/blog/plastic-injection-simulation/"
+                      href="https://blog.technia.com/en/simulation/plastic-injection-simulation/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
