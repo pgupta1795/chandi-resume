@@ -143,7 +143,7 @@ export default function Home() {
               </div>
 
               {/* Job 2 */}
-              <div className="relative pl-8 border-l-2 border-primary/20 hover:border-primary transition-colors duration-300">
+              {/* <div className="relative pl-8 border-l-2 border-primary/20 hover:border-primary transition-colors duration-300">
                 <div className="absolute w-4 h-4 bg-primary rounded-full -left-[9px] top-1"></div>
                 <div className="bg-card p-6 rounded-lg shadow-sm border hover:shadow-md transition-shadow duration-300">
                   <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-2">
@@ -173,7 +173,7 @@ export default function Home() {
                     </li>
                   </ul>
                 </div>
-              </div>
+              </div> */}
 
               {/* Job 3 */}
               <div className="relative pl-8 border-l-2 border-primary/20 hover:border-primary transition-colors duration-300">
